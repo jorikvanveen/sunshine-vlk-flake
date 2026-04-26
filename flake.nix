@@ -46,7 +46,7 @@
               src = pkgs.fetchFromGitHub {
                 owner = "LizardByte";
                 repo = "Sunshine";
-                tag = "${version}";
+                tag = "d3330d1c8d5f9d3ab41fccee7aa6b3fd5a5ee35f";
                 hash = "sha256-wMm7KgbN3yxfUtJ6b+ScYlDoJS30CZzHHOBhgE/iW6g=";
                 fetchSubmodules = true;
               };
